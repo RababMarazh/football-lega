@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "705694751855",
+    "project_id": "iraqligaapp",
+    "storage_bucket": "iraqligaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705694751855:android:efed3bacc224a042d2819a",
+        "android_client_info": {
+          "package_name": "com.example.iraqligaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705694751855-4h4vl0lp7k2o5pch1msph1emvqhd2auj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAhmcebM_7g0fstRl4QmesP_SZnCOqXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705694751855-4h4vl0lp7k2o5pch1msph1emvqhd2auj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705694751855-clejummjvra9lrj7oc3lhvj3vbof6tek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iraqligaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
